@@ -1,0 +1,6 @@
+@Azure_Logging_with_Serilog_Dotnet_HostAddress = http://localhost:5111
+
+GET {{Azure_Logging_with_Serilog_Dotnet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
